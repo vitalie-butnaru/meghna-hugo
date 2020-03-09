@@ -15,10 +15,10 @@ service:
     icon: ti-key
     content: We can handle all the work of databases, servers, systems engineering,
       and clients.
-  - name: Graphic Design
+  - name: Graphic Design + SEO
     icon: ti-palette
-    content: Lorem ipsum dolor sit amet, consectetur.. Sed id lorem eget orci dictum
-      facilisis vel id tellus.Nullam iaculis arcu at mauris dapibus consectetur.
+    content: We design new digital products with SEO in mind, whether it is a simple
+      static page or a complex website.
   - name: Apps Development
     icon: ti-package
     content: Lorem ipsum dolor sit amet, consectetur.. Sed id lorem eget orci dictum
