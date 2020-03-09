@@ -54,8 +54,8 @@ post_share = true
 [params.map]
 enable = true
 gmap_api = "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d87073.64305473518!2d28.788137261460044!3d46.99996477312769!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x40c97c3628b769a1%3A0x37d1d6305749dd3c!2zQ2hpyJlpbsSDdSwgTW9sZG92YQ!5e0!3m2!1sro!2sro!4v1583753349933!5m2!1sro!2sro\" width=\"600\" height=\"450\" frameborder=\"0\" style=\"border:0;\" allowfullscreen=\"\""
-map_latitude = "51.5223477"
-map_longitude = "-0.1622023"
+map_latitude = ""
+map_longitude = ""
 map_marker = "images/marker.png"
 [[params.plugins.css]]
 link = "plugins/bootstrap/bootstrap.min.css"
