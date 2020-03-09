@@ -23,7 +23,7 @@ service:
     icon: ti-package
     content: Our global thinking, curiosity and time management skills help to select
       the most appropriate. Software development-focused both strategy and model.
-  - name: Networking
-    icon: ti-pulse
-    content: Lorem ipsum dolor sit amet, consectetur.. Sed id lorem eget orci dictum
-      facilisis vel id tellus.Nullam iaculis arcu at mauris dapibus consectetur.
+  - name: Digital, Agile or Automation Processes
+    icon: ti-panel
+    content: Either it is a technical IT process or complex business process, we smartly
+      select a proven approach to your kind of a product.
