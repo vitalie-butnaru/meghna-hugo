@@ -1,22 +1,18 @@
-############################## Contact #############################
+---
 contact:
-  enable : true
-  title : Contact Us
-  subtitle : Contact Details
-  content : ViBu - integrated and professional approach!
-  form_action: "#" #contact form works with https://formspree.io
-
-  contact_details :
-    - icon : ti-location-pin # themify icon pack : https://themify.me/themify-icons
-      info : "Chișinău, Republica Moldova"
-      
-    - icon : ti-mobile # themify icon pack : https://themify.me/themify-icons
-      info : "Phone: +373-67-347-778"
-      link : "tel:+37367347778"
-      
-    # - icon : ti-printer # themify icon pack : https://themify.me/themify-icons
-    #   info : "Fax: +880-31-000-000"
-      
-    - icon : ti-email # themify icon pack : https://themify.me/themify-icons
-      info : "Email: vitaliebutnaru1@gmail.com"
-      link : "emailto:vitaliebutnaru1@gmail.com"
+  enable: true
+  title: Contact Us
+  subtitle: Contact Details
+  content: ViBu - integrated and professional approach!
+  form_action: "#"
+  contact_details:
+  - icon: ti-location-pin
+    info: Chișinău, Republica Moldova
+  - icon: ti-mobile
+    info: 'Phone: +373-67-347-778'
+    link: tel:+37367347778
+  - icon: ti-email
+    info: 'Email: vitaliebutnaru1@gmail.com'
+    link: emailto:vitaliebutnaru1@gmail.com
+  map:
+    enable: false
