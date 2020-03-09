@@ -4,8 +4,8 @@ portfolio:
   title: Our Works
   portfolio_item:
   - name: Tag Design
-    image: images/portfolio/3.jpg
-    image_webp: images/portfolio/3.jpg
+    image: images/portfolio/portfolio-4.jpg
+    image_webp: images/portfolio/portfolio-4.jpg
     categories:
     - design
     content: In a furnished office, we create a presentable and respectable interior,
