@@ -19,10 +19,10 @@ service:
     icon: ti-palette
     content: We design new digital products with SEO in mind, whether it is a simple
       static page or a complex website.
-  - name: Apps Development
+  - name: Projects Life-Cycle
     icon: ti-package
-    content: Lorem ipsum dolor sit amet, consectetur.. Sed id lorem eget orci dictum
-      facilisis vel id tellus.Nullam iaculis arcu at mauris dapibus consectetur.
+    content: Our global thinking, curiosity and time management skills help to select
+      the most appropriate. Software development-focused both strategy and model.
   - name: Networking
     icon: ti-pulse
     content: Lorem ipsum dolor sit amet, consectetur.. Sed id lorem eget orci dictum
