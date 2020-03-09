@@ -11,10 +11,10 @@ service:
     icon: ti-layout
     content: We are skilled and responsible for the complete development cycle from
       the Idea to Development of the project.
-  - name: Media &amp; Advertisement
-    icon: ti-blackboard
-    content: Lorem ipsum dolor sit amet, consectetur.. Sed id lorem eget orci dictum
-      facilisis vel id tellus.Nullam iaculis arcu at mauris dapibus consectetur.
+  - name: Key project’s principles
+    icon: ti-key
+    content: We can handle all the work of databases, servers, systems engineering,
+      and clients.
   - name: Graphic Design
     icon: ti-palette
     content: Lorem ipsum dolor sit amet, consectetur.. Sed id lorem eget orci dictum
