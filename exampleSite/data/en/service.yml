@@ -7,10 +7,10 @@ service:
     icon: ti-settings
     content: We have ability and extensive experience to run, release, build and manage
       IT products according to business objectives.
-  - name: Responsive Design
+  - name: UX Design/UI Research
     icon: ti-layout
-    content: Lorem ipsum dolor sit amet, consectetur.. Sed id lorem eget orci dictum
-      facilisis vel id tellus.Nullam iaculis arcu at mauris dapibus consectetur.
+    content: We are skilled and responsible for the complete development cycle from
+      the Idea to Development of the project.
   - name: Media &amp; Advertisement
     icon: ti-blackboard
     content: Lorem ipsum dolor sit amet, consectetur.. Sed id lorem eget orci dictum
