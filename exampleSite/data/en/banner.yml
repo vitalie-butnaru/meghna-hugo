@@ -1,12 +1,16 @@
-############################### Banner ################################
+---
 banner:
-  enable : true
-  bg_image_webp : "images/backgrounds/hero-area.webp"
-  bg_image : "images/backgrounds/hero-area.jpg"
-  icon : "" # themify icon pack : https://themify.me/themify-icons
-  title : "Experience the new reality"
-  content : "Lorem ipsum dolor sit amet consectetur adipisicing elit. Fugit, excepturi. At recusandae sit perferendis autem,iste tempora nostrum numquam sapiente!"
+  enable: true
+  bg_image_webp: images/backgrounds/hero-area.webp
+  bg_image: images/backgrounds/hero-area.jpg
+  icon: ''
+  title: WEB SERVICES IN CHIȘINAU, REPUBLIC OF MOLDOVA AND WORLDWIDE
+  content: 'A website must be informative, attractive, and impressive. And it also
+    must be SEO-optimized for search engines. Creating a website, which is friendly
+    both to people and to Google bots, is the right strategy. To achieve this goal
+    it is necessary to develop a consistent page structure with clear navigation and
+    engaging web content. '
   button:
-    enable : true
-    label : "Explore Us"
-    link : "#services"
+    enable: true
+    label: Explore Us
+    link: "#services"
