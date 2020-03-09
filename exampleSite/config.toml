@@ -46,10 +46,10 @@ URL = "contact"
 name = "Contact"
 weight = 7
 [params]
-author = "Themefisher"
-description = "Responsive Multipurpose Parallax HTML5 Template"
+author = "ViBu"
+description = "Smarter coding, Better surfing"
 google_analitycs_id = ""
-logo = "images/logo.png"
+logo = "images/ViBu.png"
 post_share = true
 [params.map]
 enable = true
@@ -83,7 +83,7 @@ link = "plugins/lazy-load/lozad.min.js"
 link = "plugins/google-map/map.js"
 [params.preloader]
 enable = true
-preloader = "images/logo.png"
+preloader = "images/ViBu.png"
 [[params.social]]
 icon = "ti-facebook"
 link = "#"
